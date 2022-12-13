@@ -157,6 +157,7 @@ body{ width: 100%;
         padding-left: 55px;
         padding-right: 55px;
         box-shadow: 5px 5px 6px #afbad4;
+        border-radius: 0px 50px 50px 0px;
     }
     
     .login form{
@@ -218,6 +219,7 @@ body{ width: 100%;
         justify-content: left;
         align-items: flex-end;
         box-shadow: 5px 5px 6px #afbad4;
+        border-radius: 50px 0px 0px 0px;
     }
 
     #desenhoid{
